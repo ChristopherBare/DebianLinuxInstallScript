@@ -28,7 +28,7 @@ sleep 5
 
 echo "Installing NetBeans"
 
-sh netbeans-8.2-linux.sh
+sh netbeans*.sh
 
 echo "Installing Atom"
 

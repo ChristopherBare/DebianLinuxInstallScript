@@ -10,7 +10,7 @@ sudo apt dist-upgrade
 
 #Install usefull packages for system
 
-sudo apt install cowsay fortune sysvbanner lolcat tree nano thunderbird wine autokey-gtk steam wget default-jdk default-jre gimp ubuntu-gnome-desktop gnome-tweak-tool geany
+sudo apt install git cowsay fortune sysvbanner lolcat tree nano thunderbird wine autokey-gtk steam wget default-jdk default-jre gimp ubuntu-gnome-desktop gnome-tweak-tool geany
 
 #Install Atom 
 

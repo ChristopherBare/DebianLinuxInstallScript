@@ -10,6 +10,10 @@ sudo apt update
 
 sudo apt dist-upgrade
 
+#Install build essential package
+
+sudo apt install build-essential
+
 #Install usefull packages for system
 
 sudo apt install git cowsay fortune sysvbanner lolcat tree nano thunderbird wine autokey-gtk steam wget default-jdk default-jre gimp ubuntu-gnome-desktop gnome-tweak-tool geany

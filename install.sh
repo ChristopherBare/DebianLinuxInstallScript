@@ -14,9 +14,9 @@ sudo apt dist-upgrade
 
 sudo apt install git cowsay fortune sysvbanner lolcat tree nano thunderbird wine autokey-gtk steam wget default-jdk default-jre gimp ubuntu-gnome-desktop gnome-tweak-tool geany
 
-#Install MuseScore
+#Install snap packages
 
-sudo snap install musescore
+sudo snap install musescore tusk datagrip
 
 #Download Atom
 
